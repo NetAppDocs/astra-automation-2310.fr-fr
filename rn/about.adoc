@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: rn/about.html 
+keywords: about, about this release, current release 
+summary: 'La documentation de ce site décrit l"API REST Astra Control et les technologies d"automatisation associées incluses dans les deux modèles de déploiement Astra Control.' 
+---
+= À propos de cette version
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+La documentation de ce site décrit l'API REST Astra Control et les technologies d'automatisation associées incluses dans les deux modèles de déploiement Astra Control.
+
+.Gestion des versions
+Un numéro de version du formulaire *YY.MM* est attribué à chaque version d'Astra Control. Cette valeur permet d'identifier la version basée sur l'année (_YY_) et le mois (_MM_) qu'elle est devenue disponible. Par exemple, Astra Control Center 23.07 a été commercialisé en juillet 2023.
+
+.Cadence de sortie
+Les mises à jour d'Astra Control Service et d'Astra Control Center sont généralement effectuées en même temps. Toutefois, par le passé, le rythme des versions d'Astra Control Service était accéléré. Résultat : une ou plusieurs mises à jour incrémentielles ont dépassé la version la plus récente d'Astra Control Center.
+
+.Les déploiements d'Astra Control
+La documentation de ce site s'applique aux versions suivantes d'Astra Control :
+
+* ASTRA Control Service 23.10
+* ASTRA Control Center 23.10
+
+
+Étant donné que ce site documente l'API REST pour les deux modèles de déploiement, certaines fonctionnalités peuvent être disponibles uniquement avec un modèle de déploiement ou l'autre. Toute différence significative entre les deux est notée au besoin.
+
+.Plus d'informations
+Consultez les pages et sites suivants pour obtenir de plus amples renseignements sur les versions actuelles et précédentes d'Astra Control.
+
+* link:../rn/whats_new.html["Nouveautés de l'API REST Astra Control"]
+* link:../endpoints/resources.html["Ressources REST et terminaux"]
+* https://docs.netapp.com/us-en/astra-control-center-2310/["Documentation d'Astra Control Center 23.10"^]
+* https://docs.netapp.com/us-en/astra-control-service/["Documentation relative au service après-vente Astra Control"^]
+* link:../rn/earlier-versions.html["Versions antérieures de la documentation d'Astra Automation"]
+
+
+.Aidez-nous à améliorer la documentation
+Suivez-nous sur Twitter *@NetAppDoc* pour recevoir des notifications sur la documentation NetApp. Vous pouvez également nous faire part de vos commentaires en devenant un link:https://docs.netapp.com/us-en/contribute/["Contributeur GitHub"^] ou en envoyant un e-mail à _doccomments@netapp.com_.

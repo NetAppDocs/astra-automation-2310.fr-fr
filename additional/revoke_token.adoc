@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: additional/revoke_token.html 
+keywords: token, revoke token 
+summary: 'Vous pouvez révoquer un jeton API dans l"interface Web Astra lorsqu"il n"est plus nécessaire.' 
+---
+= Révoquer un jeton API
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous pouvez révoquer un jeton API dans l'interface Web Astra lorsqu'il n'est plus nécessaire.
+
+.Avant de commencer
+Vous avez besoin de identifiants pour vous connecter à l'interface utilisateur web d'Astra pour votre déploiement.  Vous devez également identifier les jetons que vous souhaitez révoquer.
+
+.Description de la tâche
+Une fois le token révoqué, il est immédiatement et définitivement inutilisable.
+
+.Étapes
+. Connectez-vous à Astra en utilisant les identifiants de votre compte comme suit :
++
+.. ASTRA Control Service : https://astra.netapp.io/["https://astra.netapp.io"^]
+.. ASTRA Control Center : utilisez l'URL de votre environnement local tel qu'établi lors de l'installation
+
+
+. Cliquez sur l'icône figure en haut à droite de la page et sélectionnez *API Access*.
+. Sélectionnez le ou les jetons que vous souhaitez révoquer.
+. Dans la liste déroulante *actions*, cliquez sur *révoquer jetons*.
+
