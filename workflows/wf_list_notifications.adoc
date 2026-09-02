@@ -18,6 +18,7 @@ Vous pouvez lister les notifications d'un compte Astra spécifique. Vous pouvez 
 
 
 
+[[1-list-the-notifications]]
 === 1. Dressez la liste des notifications
 
 Effectuez l'appel de l'API REST suivant.

@@ -18,6 +18,7 @@ Vous pouvez lister les systèmes back-end disponibles.
 
 
 
+[[1-list-the-backends]]
 === 1. Dressez la liste des systèmes back-end
 
 Effectuez l'appel de l'API REST suivant.

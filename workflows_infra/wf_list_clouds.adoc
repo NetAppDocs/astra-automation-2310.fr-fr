@@ -18,6 +18,7 @@ Vous pouvez répertorier les nuages définis et disponibles un compte Astra spé
 
 
 
+[[1-list-the-clouds]]
 === 1. Dresser la liste des clouds
 
 Effectuez l'appel d'API REST suivant pour répertorier les clouds.

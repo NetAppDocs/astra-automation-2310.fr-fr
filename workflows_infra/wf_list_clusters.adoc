@@ -18,12 +18,14 @@ Vous pouvez afficher la liste des clusters disponibles dans un cloud spécifique
 
 
 
+[[1-select-the-cloud]]
 === 1. Sélectionnez le nuage
 
 Exécutez le flux de travail link:../workflows_infra/wf_list_clouds.html["Lister les clouds"] et sélectionnez le cloud contenant les clusters.
 
 
 
+[[2-list-the-clusters]]
 === 2. Dresser la liste des clusters
 
 Effectuez l'appel d'API REST suivant pour répertorier les clusters dans un cloud spécifique.

@@ -18,6 +18,7 @@ Vous pouvez lister les espaces de noms disponibles.
 
 
 
+[[1-list-the-namespaces]]
 === 1. Dressez la liste des espaces de noms
 
 Exécutez l'appel d'API REST suivant pour afficher la liste des namespaces.

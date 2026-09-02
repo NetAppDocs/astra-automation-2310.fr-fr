@@ -18,6 +18,7 @@ Vous pouvez afficher la liste des compartiments S3 définis pour un compte Astra
 
 
 
+[[1-list-the-buckets]]
 === 1. Dressez la liste des compartiments
 
 Effectuez l'appel suivant de l'API REST pour afficher la liste des compartiments.
